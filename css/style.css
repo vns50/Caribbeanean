@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6 {
         bottom: 8px; } }
 
 .footer {
-  background-color: #f7f7f7;
+  background-color: rgba(247, 247, 247, 0.747);
   padding: 100px 0; }
   .footer__row {
     display: -webkit-box;
